@@ -530,7 +530,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Button_Board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
