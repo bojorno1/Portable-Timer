@@ -5,7 +5,7 @@ This is Portable Timer! It's a small timer that you can take with you <em>anywhe
 This project is made up of 4 boards:
 The Main Board, found <a href="https://github.com/bojorno1/Portable-Timer/tree/main/boards/Main_Board"> here... </a><br>
 The Button Board, found <a href="https://github.com/bojorno1/Portable-Timer/tree/main/boards/Button_board">here...</a><br>
-The I2C Backpack (thanks to <a href="http://electronicsgate.com/Images/lcd_backpack/schematic.png"> for making a great base on how to make one of these!) found <a href="https://github.com/bojorno1/Portable-Timer/tree/main/boards/I2CBackpack">here...</a>
+The I2C Backpack (thanks to <a href="http://electronicsgate.com/Images/lcd_backpack/schematic.png">electronics gate</a> for making a great base on how to make one of these!) found <a href="https://github.com/bojorno1/Portable-Timer/tree/main/boards/I2CBackpack">here...</a>
 <br>
 and finally...
 <br>
