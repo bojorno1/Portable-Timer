@@ -22,3 +22,5 @@ The Main Board, found <a href="https://github.com/bojorno1/Portable-Timer/tree/m
 
 
 <br>These 4 boards all connect together with jumper wires, as shown in the PCB Schematic, found <a href="https://github.com/bojorno1/Portable-Timer/blob/main/boards/schematic.pdf">here...</a>
+
+The firmware files are found <a href="https://github.com/bojorno1/Portable-Timer/tree/main/firmware">here...</a>
